@@ -15,7 +15,7 @@
 # UE5_BGBT_2DPlatformer
 Port of [How to make a Video Game - Godot Beginner Tutorial from Brackeys Youtube Channel](https://www.youtube.com/watch?v=LOhfqjmasi0) to Unreal Engine 5.4.1 .
 
-<img src="https://github.com/DarknessFX/UE5_BGBT_2DPlatformer/blob/main/.git-img/UE5_BGBT_2DPlatformer.png" width="640px" />
+<img src="https://github.com/DarknessFX/UE5_BGBT_2DPlatformer/blob/master/.git-img/UE5_BGBT_2DPlatformer.png" width="640px" />
 
 ## Versioning
 
