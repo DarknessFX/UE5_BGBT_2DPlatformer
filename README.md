@@ -17,10 +17,6 @@ Port of [How to make a Video Game - Godot Beginner Tutorial from Brackeys Youtub
 
 <img src="https://github.com/DarknessFX/UE5_BGBT_2DPlatformer/blob/master/.git-img/UE5_BGBT_2DPlatformer.png" width="640px" />
 
-## Versioning
-
-v1.0 - Released.
-
 ## Credits
 
 How to make a Video Game - Godot Beginner Tutorial by Brackeys - https://www.youtube.com/watch?v=LOhfqjmasi0 .<br/>
@@ -36,12 +32,15 @@ MUSIC by Brackeys, Sofia Thirslund .<br/>
 SOUNDS by Brackeys, Asbjørn Thirslund .<br/>
 FONTS by Jayvee Enaguas - [HarvettFox96](https://www.dafont.com/pixel-operator.font?l[]=10&l[]=1)."<br/><br/>
 
-Addiotional Unreal Engine 5 2D References used:<br/>
-UE5 2Don - https://www.youtube.com/@OY-Games .<br/>
-Playlist: https://www.youtube.com/playlist?list=PLmoIIqJZj1GXXwy5rnjv0Uv5-zAA0OmLl .<br/><br/>
+## References
 
-CobraCode - https://www.youtube.com/@CobraCode .<br/>
-Playlist: https://www.youtube.com/watch?v=z0-7L3e4qCw&list=PLEHVxFO1I6emx7h6OxVSa9g8_TPZ0BsI_ .<br/><br/>
+Unreal Engine 5 2D References/Tutorials used:<br/>
+UE5 2Don - https://www.youtube.com/@OY-Games - [Playlist](https://www.youtube.com/playlist?list=PLmoIIqJZj1GXXwy5rnjv0Uv5-zAA0OmLl) .<br/>
+CobraCode - https://www.youtube.com/@CobraCode - [Playlist](https://www.youtube.com/watch?v=z0-7L3e4qCw&list=PLEHVxFO1I6emx7h6OxVSa9g8_TPZ0BsI_) .<br/><br/>
+
+## Versioning
+
+v1.0 - Released.
 
 ## License
 
